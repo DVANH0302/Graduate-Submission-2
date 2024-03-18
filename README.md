@@ -1,4 +1,4 @@
-# Graduate-Submission-2
+# Graduate Admission Prediction using multiple linear regression
 ### Dataset: 
 Admission_Predict.csv 
 ### Code:
