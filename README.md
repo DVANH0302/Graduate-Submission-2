@@ -1,4 +1,4 @@
-# Graduate-Submission-2-
+# Graduate-Submission-2
 ### Dataset: 
 Admission_Predict.csv 
 ### Code:
